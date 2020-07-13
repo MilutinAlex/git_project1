@@ -1,4 +1,5 @@
 def main():
+    print('What an awesome print!')
     print('My first git program')
     print('And I change it every day')
     print('Еще одна строка')
